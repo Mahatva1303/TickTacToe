@@ -1,2 +1,11 @@
 # TickTacToe
 Developed a Basic TickTacToe game in java for two players
+# Tic Tac Toe – Java Console Game
+
+A two-player Tic Tac Toe game built using Java.
+Players take turns entering row and column numbers.
+
+## How to Run
+```bash
+javac src/TicTacToe.java
+java src.TicTacToe
